@@ -1,0 +1,5 @@
+node_modules
+.env
+.test.env
+config
+config/database/test.json
